@@ -1,0 +1,330 @@
+a{
+color: inherit;
+text-decoration: none;
+}
+    
+    body{
+    background-color: #ABC4AA;
+}
+
+#container{
+    width: 100%;
+    height: 100vh;
+    background: url(SunsetMountain-4k-Ultra-HD-Wallpaper.jpg);
+    background-size: 100%;
+    color: #E4DCCF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+#autotype{
+    color: #F3DEBA;
+   
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#nav{
+   
+    width: 1505px;
+    height: 50px;
+    position: absolute;
+    top: 20px;
+    color: #E4DCCF;
+    text-align: center;
+    margin: 50px;
+}
+
+.nav1{
+    display: inline;
+    color: inherit;
+    text-decoration: none;
+    padding: 100px;
+    
+    }
+
+   #Resume{
+       background-color: #253d47;
+        width: 99%;
+        position: absolute;
+        top: 750px;
+        color: white;
+       
+    }
+
+#f12{
+    width: 100%;
+    height: 100vh;
+    background: url(ferrari-sf-23-7680x5212-10418.jpg);
+    background-size: 100%;
+    color: #E4DCCF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+#cont{
+    background-color: black;
+    width: 99%;
+    height: 250vh;
+    position: absolute;
+    top:753px;
+}
+#track{
+background-image: url(wallpaperflare.com_wallpaper.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+height: 80vh;
+width: 50%;
+position: absolute;
+left:0px;
+}
+
+#ho{
+    font-size: medium;
+    height: 80vh;
+    width: 50%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#spark{
+    background-image: url(f1sparks.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+    position: absolute;
+    top: 150px;
+    right: 0px;
+}
+
+#max{
+    background-image: url(max.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 40%;
+    position: absolute;
+    top: 425px;
+    left: 0px;
+}
+
+#redlogo{
+    background-image: url(redbulllogo.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 30vh;
+    width: 10%;
+    position: absolute;
+    top: 425px;
+    left: 600px;
+}
+
+#maxinfo{
+    font-size: medium;
+    height: 80vh;
+    width: 50%;
+    position: absolute;
+    top: 570px;
+    right: 100px;
+}
+
+#lewis{
+    background-image: url(lewis.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 40%;
+    position: absolute;
+    top: 750px;
+    right: 30px;
+}
+
+#lewisinfo{
+    font-size: medium;
+    height: 80vh;
+    width: 50%;
+    position: absolute;
+    top: 1050px;
+    left: 50px;
+}
+
+#Controversy{
+    position: absolute;
+    width: 100%;
+    top: 1200px;
+}
+
+#conter{
+    height: 100px;
+    width: 50%;
+    position: absolute;
+    top: 50px;
+    right: 0px;
+    text-align: center;
+}
+#win{
+    position: absolute;
+    top: 150px;
+    right: 0px;
+    width: 50%;
+}
+
+#video{
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    width: 50%;
+}
+
+#src{
+    position: absolute;
+    top: 1700px;
+    left: 0px;
+    width: 50%;
+    text-align: left;
+}
+
+#div1{
+    background-color:bisque;
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    left: 20px;
+    color: black;
+}
+
+#div2{
+    background-color:bisque;
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    right: 20px;
+    color: black;
+}
+
+#div3{
+    background-color:bisque;
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    right: 20px;
+    bottom: 0px;
+    color: black;
+}
+
+#div4{
+    background-color:bisque;
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    left: 20px;
+    bottom: 0px;
+    color: black;
+}
+#div5{
+    background-color:#ABC4AA;
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    left: 20px;
+    bottom: 150px;
+    color: black;
+}
+
+#div6{
+    background-color:#ABC4AA;
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    right: 20px;
+    top: 450px;
+    color: black;
+}
+
+#div7{
+    background-color:#ABC4AA;
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    top: 450px;
+    color: black;
+}
+
+#div8{
+    background-image: url(charles-leclerc-ferrari-sf-23-.jpg);
+    background-size: 100%;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    right: 220px;
+    top: 310px;
+    color: cyan;
+}
+
+#div9{
+    background-image: url(charles-leclerc-ferrari-sf-23-.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    left: 220px;
+    top: 310px;
+    color: cyan;
+}
+
+
+#cont2{
+    width: 100%;
+    height: 120vh;
+    background-color: #253d47;
+    background-size: 100%;
+    color: #E4DCCF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+#div10{
+    background-color:bisque;
+    border-radius: 25px;
+    height: 175px;
+    width: 200px;
+    position: absolute;
+    top: 550px;
+    left: 250px;
+    color: black;
+}
+
+#div11{
+    border: 2px solid #73AD21;
+    padding: 20px;
+    border-radius: 25px;
+    height: 175px;
+    width: 200px;
+    position: absolute;
+    top: 650px;
+    right: 250px;
+    color: beige;
+}
+
+#div12{
+    border: 2px solid #73AD21;
+    padding: 20px;
+    border-radius: 15px 50px 30px 5px;
+    height: 175px;
+    width: 200px;
+    position: absolute;
+    top: 650px;
+    color: beige;
+}
